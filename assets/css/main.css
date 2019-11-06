@@ -2595,7 +2595,7 @@ input, select, textarea {
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
 		/* background-image: url("images/overlay.png"), url("../../images/bg.jpg"); */
-		background-image: url("/Users/Christopher_Richards/Desktop/Dev/Personal_Website/images/mountains.jpg");
+		background-image: url("images/mountains.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
